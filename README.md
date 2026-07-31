@@ -32,7 +32,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/GabN-Creator/GabN-Creator/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabN-Creator/GabN-Creator/snake-output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
